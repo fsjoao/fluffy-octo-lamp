@@ -1,6 +1,6 @@
 <h1 align="center">DEPLOY NO DOCKER DA APLICAÇÃO PADRÃO DO REACTJS</h1>
 
-<p align="center">Simples deploy, versionado, build padrão.</p>
+<p align="center">Simples deploy, build padrão, always improving.</p>
 
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
